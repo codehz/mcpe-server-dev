@@ -9,4 +9,6 @@ RUN apt-get install -y \
     libpng-dev \
     uuid-dev \
     libcurl4-openssl-dev \
-    libssl-dev
+    libssl-dev \
+    vim \
+    git
